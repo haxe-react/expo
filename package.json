@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "dts2hx": "^0.16.1",
+    "expo-av": "^9.2.3",
+    "expo-barcode-scanner": "^10.2.2",
+    "expo-camera": "^11.2.2",
+    "expo-video-thumbnails": "^5.2.1"
+  }
+}

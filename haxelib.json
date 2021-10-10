@@ -1,0 +1,14 @@
+{
+	"name": "expo",
+	"license": "MIT",
+	"tags": ["react", "expo", "react-native"],
+	"classPath": "src",
+	"contributors": [
+	  "kevinresol"
+	],
+	"releasenote": "initial release",
+	"version": "0.0.0",
+	"dependencies": {
+		"react-native": ""
+	}
+}
